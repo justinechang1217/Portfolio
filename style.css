@@ -1,0 +1,164 @@
+/* Index */
+.navigation-container {
+  font-family: 'Raleway';
+  font-size: 85%;
+  margin: 0;
+  padding: 0;
+  border-bottom:  1px solid grey;
+}
+
+.navigation {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+  background-color: lavenderblush;
+}
+
+.navigation li {
+  flex-direction: row;
+  list-style: none;
+  padding: 10px;
+  color: grey;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+  color: rosybrown;
+  font-family: 'Oleo Script';
+  font-size: 300%;
+  text-align: center;
+}
+
+h2 {
+  color: black;
+  font-family: 'Arial';
+  font-size: 150%;
+}
+
+.container {
+  display: flex;
+  margin-left: 140px;
+  margin-right: 140px;
+}
+
+.container img {
+  width: 34%;
+}
+
+.container p {
+  font-size: 200%;
+  font-family: 'Palanquin Dark';
+  color: #4d4d4d;
+  margin-left: 65px;
+}
+
+/* Photos */
+.navigation-container {
+  font-family: 'Raleway';
+  font-size: 85%;
+  margin: 0;
+  padding: 0;
+  border-bottom:  1px solid grey;
+}
+
+.navigation {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+  background-color: lavenderblush;
+}
+
+h2 {
+  color: rosybrown;
+  font-family: 'Oleo Script';
+  font-size: 250%;
+  text-align: left;
+  margin-left: 50px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+h3 {
+  color: rosybrown;
+  font-family: 'Oleo Script';
+  font-size: 250%;
+  text-align: left;
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+h4 {
+  color: rosybrown;
+  font-family: 'Oleo Script';
+  font-size: 250%;
+  text-align: left;
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+h5 {
+  color: rosybrown;
+  font-family: 'Oleo Script';
+  font-size: 250%;
+  text-align: left;
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+h6 {
+  color: rosybrown;
+  font-family: 'Oleo Script';
+  font-size: 250%;
+  text-align: left;
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+p {
+  color: rosybrown;
+  font-family: 'Oleo Script';
+  font-size: 250%;
+  text-align: left;
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+ /* Contact */
+ .navigation-container {
+   font-family: 'Raleway';
+   font-size: 85%;
+   margin: 0;
+   padding: 0;
+   border-bottom:  1px solid grey;
+ }
+
+ .navigation {
+   display: flex;
+   margin: 0;
+   padding: 0;
+   justify-content: center;
+   background-color: lavenderblush;
+ }
+
+ .contact {
+   margin-left: 100px;
+   margin-right: 100px;
+   font-size: 160%;
+   font-family: 'Palanquin Dark';
+   color: #4d4d4d;
+ }
+
+ .conclusion {
+   margin-left: 100px;
+   margin-top: 20px;
+ }
