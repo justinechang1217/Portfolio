@@ -138,13 +138,60 @@ p {
   margin-bottom: 30px;
 }
 
+/* Photos2 */
+.navigation-container {
+  font-family: 'Raleway';
+  font-size: 85%;
+  margin: 0;
+  padding: 0;
+  border-bottom: 1px solid grey;
+}
+
+.navigation {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+  background-color: lavenderblush;
+}
+
+.container2 {
+  height: auto;
+  /* height automatically to fit all elements */
+  background: #ffffff;
+  display: flex;
+  /* sets div to flexbox */
+  flex-wrap: wrap;
+  /* items move down to new line if no more space */
+  justify-content: center;
+  /* centers flexbox items */
+  margin-top: 100px;
+}
+
+.container-item2 {
+  height: 60px;
+  width: 150px;
+  margin: 1em;
+  background: #f5efef;
+}
+
+.container-item2 a {
+  color: rosybrown;
+}
+
+.container-item2 p {
+  border: 1px solid black;
+  margin: auto;
+  text-align: center;
+}
+
  /* Contact */
  .navigation-container {
    font-family: 'Raleway';
    font-size: 85%;
    margin: 0;
    padding: 0;
-   border-bottom:  1px solid grey;
+   border-bottom: 1px solid grey;
  }
 
  .navigation {
